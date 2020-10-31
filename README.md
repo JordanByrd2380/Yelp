@@ -21,7 +21,8 @@ The following **extensions** are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![Yelp](https://user-images.githubusercontent.com/66845608/97771922-da8c0180-1b0f-11eb-9884-e57ec4e5cb95.gif)
+
 
 
 
